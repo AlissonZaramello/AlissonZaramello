@@ -28,4 +28,4 @@
 
 ##
 
-![Snake animation](https://github.com/AlissonZaramello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlissonZaramello/AlissonZaramello/blob/output/github-contribution-grid-snake.svg)
