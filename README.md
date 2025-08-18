@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alisson Zaramello da Silva
 
-- 🔭 Hoje trabalho como Assistente de E-commerce.
+- 🔭 Hoje trabalho como Programador Junior.
 - 🌱 Estudando Java, Cybersegurança e IA.
 
 <a href="https://github.com/AlissonZaramello/github-readme-stats">
